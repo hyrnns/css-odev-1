@@ -1,0 +1,19 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(28, 28, 95);
+}
+h2 {
+    color: rgb(141, 112, 189);
+}
+h3 {
+    color: cornflowerblue;
+}
+
+ul {
+    list-style-position: inside;
+}
+ol {
+    list-style-position: inside;
+}
